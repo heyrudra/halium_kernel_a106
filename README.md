@@ -1,12 +1,12 @@
-# Daredevil Project for a106
+# [WIP]
+
+# Halium Project on Daredevil kernel for a106
 
 ![Daredevil](http://s24.postimg.org/snrt08gut/image.png "Daredevil Kernel logo")
 
 # Kernel compatible roms:
 
   * Lineage OS 13.0 Unofficial
-  
-  * Lineage OS 14.1 Unofficial
 
 # Compilation guide:
   
